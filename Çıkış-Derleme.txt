@@ -1,0 +1,11 @@
+﻿Yeniden derleme işlemi başladı...
+1>------ Tümü Yeniden Derle başladı: Proje: ikili_taban, Yapılandırma: Debug Any CPU ------
+C:\Users\USER\source\repos\ikili_taban\ikili_taban\ikili_taban.csproj geri yüklendi (1 ms içinde).
+C:\Users\USER\source\repos\ikili_taban\Stenografi_sifrecozme\Stenografi_sifrecozme.csproj geri yüklendi (2 ms içinde).
+C:\Users\USER\source\repos\ikili_taban\Stenografi\Stenografi.csproj geri yüklendi (2 ms içinde).
+1>ikili_taban -> C:\Users\USER\source\repos\ikili_taban\ikili_taban\bin\Debug\netcoreapp3.1\ikili_taban.dll
+2>------ Tümü Yeniden Derle başladı: Proje: Stenografi, Yapılandırma: Debug Any CPU ------
+3>------ Tümü Yeniden Derle başladı: Proje: Stenografi_sifrecozme, Yapılandırma: Debug Any CPU ------
+2>Stenografi -> C:\Users\USER\source\repos\ikili_taban\Stenografi\bin\Debug\netcoreapp3.1\Stenografi.dll
+3>Stenografi_sifrecozme -> C:\Users\USER\source\repos\ikili_taban\Stenografi_sifrecozme\bin\Debug\netcoreapp3.1\Stenografi_sifrecozme.dll
+========== Tümünü Yeniden Oluşturma: 3 başarılı, 0 başarısız, 0 atlandı ==========
